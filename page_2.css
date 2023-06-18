@@ -1,0 +1,141 @@
+body {
+background-color: rgb(17, 17, 17);
+color: rgb(255, 255, 255);
+font-family: cursive;
+}
+
+.facebookimg {
+width: 30px;
+border-radius: 60px;
+}
+
+.instagramimg {
+width: 30px;
+border-radius: 60px;
+}
+
+.telegramimg {
+width: 30px;
+border-radius: 60px;
+background-color: white;
+}
+
+.facebookimg, .instagramimg, .telegramimg {
+margin: 5px;
+}
+
+.headerimg {
+width: 200px;
+text-align: left;
+float: left;
+}
+
+.DataIT {
+text-align: center;
+position: absolute;
+margin-left: 47%;
+background-color: transparent;
+font-size: 20px;
+}
+
+.DataIT:hover {
+color: #5eb0ea;
+background-color: #16649c3e;
+padding: 5px;
+border-radius: 8px;
+transition: 0.3s;
+}
+
+
+a {
+text-decoration: none;
+}
+
+.call {
+background: transparent;
+border-radius: 8px;
+color: #EACF5E;
+border: 2px solid #EACF5E;
+margin-left: 90%;
+padding: 10px;
+}
+
+.call:hover {
+background: transparent;
+border-radius: 8px;
+color: #5eb0ea;
+border: 2px solid #5eb0ea;
+margin-left: 90%;
+padding: 10px;
+transition: 0.3s;
+background-color: #16649c3e;
+}
+
+.msh2, .msh3 {
+padding-left: 5px;
+}
+
+.fsec {
+background-color: rgb(51, 51, 51);
+height: 200px;
+}
+
+.msdiv {
+width: 100%;
+background-color: rgb(51, 51, 51);
+}
+
+.name, .email, .message {
+margin: 5px;
+background-color: rgb(110, 110, 110);
+border: 3px solid rgb(110, 110, 110);
+border-radius: 5px;
+color: white;
+}
+
+.messagetext {
+padding-left: 5px;
+}
+
+.privacylink {
+color: #5eb0ea;
+}
+
+h4 {
+font-size: 9px;
+float: right;
+}
+
+.sendtext {
+background: transparent;
+border-radius: 8px;
+color: #EACF5E;
+border: 2px solid #EACF5E;
+padding: 10px;
+}
+
+.send {
+width: 80px;
+float: left;
+}
+
+.sendtext:hover {
+background: transparent;
+border-radius: 8px;
+color: #5eb0ea;
+border: 2px solid #5eb0ea;
+transition: 0.3s;
+background-color: #16649c3e;
+}
+
+.secone {
+    text-align: center;
+}
+
+.soh2 {
+    text-align: center;
+}
+
+.video {
+    border-radius: 10px;
+}
